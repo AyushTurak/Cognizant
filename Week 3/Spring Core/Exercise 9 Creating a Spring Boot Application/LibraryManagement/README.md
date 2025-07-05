@@ -8,9 +8,6 @@ GET All Book
 GET Book
 ![GET Book.png](OutputScreenShot/GET%20Book.png)
 
-UPDATE Book
-![UPDATE Book.png](OutputScreenShot/UPDATE%20Book.png)
-
 DELETE Book
 ![DELETE Book.png](OutputScreenShot/DELETE%20Book.png)
 
