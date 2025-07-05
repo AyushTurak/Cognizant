@@ -13,5 +13,3 @@ Steps:
       o	Create a package com.library.repository and add a class BookRepository.
 4.	Run the Application:
       o	Create a main class to load the Spring context and test the configuration.
-
-![output.png](output.png)
