@@ -10,3 +10,4 @@ Steps:
 1. Create a mock object for the external API.
 2. Stub the methods to return predefined values.
 3. Write a test case that uses the mock object. 
+<!-- Ayush -->
