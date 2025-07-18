@@ -33,7 +33,7 @@ Follow steps below to secure all web services using Spring Security:
 
     {"timestamp":"2019-10-05T09:24:33.794+0000","status":401,"error":"Unauthorized","message":"Unauthorized","path":"/countries"}
 
-•	The inclusion of @EnableWebSecurity has restricted access to all the web services with a common password.
+•	The inclusion of @EnableWebSecurity has restricted access to all the web services with a common password
 
 •	Refer the logs to find out the password generated. Now execute the invocation of the service with password as specified below, which should get the list of countries. include the password from the log file after user:.
 
